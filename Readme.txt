@@ -1,19 +1,19 @@
-;·ÖºÅ¿ªÍ·ÊÇ×¢ÊÍËµÃ÷£¬ÓÃÀ´ÁË½â²¹¶¡µÄÀàĞÍ(ÀıÈç£ºÊÇÔÂ¶È»ã×Ü²¹¶¡»¹ÊÇ°²È«ĞÔ¸üĞÂ²¹¶¡)£¬ÎÄµµÔÊĞíÓĞ¿ÕĞĞ
+;åˆ†å·å¼€å¤´æ˜¯æ³¨é‡Šè¯´æ˜ï¼Œç”¨æ¥äº†è§£è¡¥ä¸çš„ç±»å‹(ä¾‹å¦‚ï¼šæ˜¯æœˆåº¦æ±‡æ€»è¡¥ä¸è¿˜æ˜¯å®‰å…¨æ€§æ›´æ–°è¡¥ä¸)ï¼Œæ–‡æ¡£å…è®¸æœ‰ç©ºè¡Œ
 
-;2021-11 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x64 ÏµÍ³µÄÔÂ¶È°²È«ÖÊÁ¿»ã×Ü
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x64_7536d20ab5c66ee4156f408044a6c65482352acf.msu
-
-;2021-11 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x86 ÏµÍ³µÄÔÂ¶È°²È«ÖÊÁ¿»ã×Ü
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x86_9e24efca570d32cf36029feb853f88c168226a04.msu
-
-;2021-11 Windows 10 1809 »ùÓÚ x64 ÏµÍ³µÄÀÛ¼Æ¸üĞÂ
+;2021-11 Windows 10 1809 åŸºäº x64 ç³»ç»Ÿçš„ç´¯è®¡æ›´æ–°
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows10.0-kb5007206-x64_f8ccc7d4574581576e74d86ccacc7fbf47d050f6.msu
 
-;2021-11 Windows 10 1809 »ùÓÚ x86 ÏµÍ³µÄÀÛ¼Æ¸üĞÂ
+;2021-11 Windows 10 1809 åŸºäº x86 ç³»ç»Ÿçš„ç´¯è®¡æ›´æ–°
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/11/windows10.0-kb5008602-x86_bc9c29ade83d386cc7c4b507d301552a2b92962b.msu
 
-;2021-11 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x64 ÏµÍ³µÄ½ö°²È«¸üĞÂ
+;2021-11 é€‚ç”¨äº Windows 8.1 åŸºäº x64 ç³»ç»Ÿçš„ä»…å®‰å…¨æ›´æ–°
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/11/windows8.1-kb5007255-x64_c877068c3c0fbff9ba5d2995a8532fbb70b2716f.msu
 
-;2021-11 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x86 ÏµÍ³µÄ½ö°²È«¸üĞÂ
+;2021-11 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„ä»…å®‰å…¨æ›´æ–°
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/11/windows8.1-kb5007255-x86_8d56647d23f30633ccc281ee12d5913fc8347aab.msu
+
+;2021-11 é€‚ç”¨äº Windows 8.1 åŸºäº x64 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x64_7536d20ab5c66ee4156f408044a6c65482352acf.msu
+
+;2021-11 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x86_9e24efca570d32cf36029feb853f88c168226a04.msu
