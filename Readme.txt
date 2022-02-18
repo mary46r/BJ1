@@ -13,10 +13,10 @@ _only_8.1x64=http://download.windowsupdate.com/c/msdownload/update/software/secu
 _only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010395-x86_f83e81097eec367b1d24bc07eac1846d7cbb394c.msu
 
 ; 2022-02 Windows 10 1809 基于 x64 系统的累计更新
-_1809x64=http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows10.0-kb5010196-x64_18d275f02ab20abb80257f0b6a3314869a7922ca.msu
+_1809x64=https://download.windowsupdate.com/c/msdownload/update/software/updt/2022/02/windows10.0-kb5010427-x64_1ebd2aa1a2dd6de3070a7c09fa2b68817227e2d0.msu
 
 ; 2022-02 Windows 10 1809 基于 x86 系统的累计更新
-_1809x32=http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows10.0-kb5010196-x86_272398a3a262c8ead57032d55102d5b29e32e14b.msu
+_1809x32=https://download.windowsupdate.com/d/msdownload/update/software/updt/2022/02/windows10.0-kb5010427-x86_af8420a70c693a8463880df43c1ff133aead4fb5.msu
 
 ; 2022-适用于 Windows 10 Version 21H2 的 02 累积更新，适合基于 x86 的系统 
 _21H2x32=https://download.windowsupdate.com/c/msdownload/update/software/updt/2022/02/windows10.0-kb5010415-x86_fc5df9e1b810078b64d46827312b1b7e78ede18f.msu
