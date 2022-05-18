@@ -18,10 +18,10 @@ _1809x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/202
 _1809x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x86_2cc1ab49968b97f690c0db7c6aa5b830de728d85.msu
 
 ; 2022-适用于 Windows 10 Version 21H2 的 05 累积更新，适合基于 x64 的系统 
-_21H2x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_6dc7730c205a77a68542e68a70e683b079662226.msu
+_21H2x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_e85866bc2a5a4e4c7ab8200f770f74140afe5483.cab
 
  ; 2022-适用于 Windows 10 Version 21H2 的 05 累积更新，适合基于 x86 的系统 
-_21H2x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x86_0f75e54848366a2669827a2855a47c13035c24d3.msu
+_21H2x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x86_51733e9cda5055e5ead6e5d29df099c8895ee069.cab
 
 ; 2022-适用于 Windows 10 Version 1607 的 05 累积更新，适合基于 x64 的系统
 _1607x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x64_c9c29b4a81897db5545e284f04490c0659dc8b06.msu
