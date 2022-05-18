@@ -15,7 +15,7 @@ _only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu
 _1809x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
 
 ; 2022-05 Windows 10 1809 基于 x86 系统的累计更新
-_1809x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
+_1809x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x86_2cc1ab49968b97f690c0db7c6aa5b830de728d85.msu
 
 ; 2022-适用于 Windows 10 Version 21H2 的 05 累积更新，适合基于 x64 的系统 
 _21H2x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_6dc7730c205a77a68542e68a70e683b079662226.msu
@@ -28,4 +28,5 @@ _1607x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/202
 
 ; 2022-适用于 Windows 10 Version 1607 的 05 累积更新，适合基于 x86 的系统
 _1607x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x86_b2adf7f0b5163f0efc86cd13bc9fbb59b5ede70f.msu
+
 
