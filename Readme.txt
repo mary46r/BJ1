@@ -12,7 +12,7 @@ _only_8.1x64=http://download.windowsupdate.com/d/msdownload/update/software/secu
 _only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows8.1-kb5014746-x86_2062fb777b8351ac789debe64fdb985e1267f503.msu
 
 ; 2022-06 Windows 10 1809 基于 x64 系统的累计更新
-_1809x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x64_14bce6a6e97c5f43c7cc361d639702ed84ef302a.msu
+_1809x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x64_14bce6a6e97c5f43c7cc361d639702ed84ef302a.msu
 
 ; 2022-06 Windows 10 1809 基于 x86 系统的累计更新
 _1809x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x86_22d2572f5e50f0d9402c81b3731e21469a2c98f9.msu
